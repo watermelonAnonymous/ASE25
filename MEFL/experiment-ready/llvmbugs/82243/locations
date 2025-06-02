@@ -1,0 +1,6 @@
+test trunk:dce77a357948709e335910ddc07f9c3f2eb2ac4b
+fail opti level:-Os
+fixed trunk:
+buggy locations:
+file: llvm/lib/Transforms/Utils/ScalarEvolutionExpander.cpp;
+file: llvm/lib/Transforms/Utils/SimplifyIndVar.cpp;

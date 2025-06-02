@@ -1,0 +1,5 @@
+test trunk:ddd2f57b29661f21308eec0400fa92a6d075b0c6
+fail opti level:-O1
+fixed trunk:c2fba023475fddb893eac29dc9f34dfbdb221cd5
+buggy locations:
+file: llvm/lib/Analysis/ValueTracking.cpp;

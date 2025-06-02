@@ -1,0 +1,5 @@
+test trunk:20737825c9122b6e0a8912731cfa7e0558fe025d
+fail opti level:-O2
+fixed trunk:b210cbbd0eb8ef7cd2735e99570474e6e53ee00b
+buggy locations:
+file: llvm/lib/Transforms/Scalar/BDCE.cpp;

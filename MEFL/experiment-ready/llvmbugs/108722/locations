@@ -1,0 +1,5 @@
+test trunk:987087df90026605fc8d03ebda5a1cd31b71e609
+fail opti level:-O1
+fixed trunk:52a05d380f61f4f04620dc20635a06216c19f276
+buggy locations:
+file: llvm/lib/Target/X86/X86ISelLowering.cpp;

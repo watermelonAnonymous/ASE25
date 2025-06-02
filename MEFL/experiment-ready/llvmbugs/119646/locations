@@ -1,0 +1,5 @@
+test trunk:ebe741fad07e3fda388d0fa44f256a07429cce6a
+fail opti level:-Os
+fixed trunk:fed817a8b25e178cd701fefcdfe80c447d2ab212
+buggy locations:
+file: llvm/lib/Transforms/Scalar/DeadStoreElimination.cpp;

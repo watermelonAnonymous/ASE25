@@ -1,0 +1,5 @@
+test trunk:0f501c30b9601627c236f9abca8a3befba5dc161
+fail opti level:-O3
+fixed trunk:bba4a1daff6ee09941f1369a4e56b4af95efdc5c
+buggy locations:
+file: llvm/lib/Transforms/IPO/ArgumentPromotion.cpp;

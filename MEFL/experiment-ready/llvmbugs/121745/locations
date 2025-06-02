@@ -1,0 +1,5 @@
+test trunk:df4a615c988f3ae56f7e68a7df86acb60f16493a
+fail opti level:-O2
+fixed trunk:f9369cc602272796c15de1065a782f812e791df3
+buggy locations:
+file: llvm/lib/Transforms/Vectorize/VPlanTransforms.cpp;

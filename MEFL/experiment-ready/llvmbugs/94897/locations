@@ -1,0 +1,5 @@
+test trunk:338cbfef03e0ab58d7b52f3301928c58b194a1b4
+fail opti level:-O1
+fixed trunk:e4b0655b297e4f4b0eb26548c8be48d527ebc178
+buggy locations:
+file: llvm/lib/Transforms/InstCombine/InstCombineCompares.cpp;

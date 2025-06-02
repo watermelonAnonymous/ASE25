@@ -1,0 +1,5 @@
+test trunk:5287299f8809ae927a0acafb179c4b37ce9ff21d
+fail opti level:-Os
+fixed trunk:f2f02b21cd581057e3c9b4a7a27e0014eeb9ba15
+buggy locations:
+file: llvm/lib/Transforms/Vectorize/VectorCombine.cpp;

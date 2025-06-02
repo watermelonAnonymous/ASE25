@@ -1,0 +1,5 @@
+test trunk:67782d2de5ea9c8653b8f0110237a3c355291c0e
+fail opti level:-O1
+fixed trunk:3c9022c965b85951f30af140da591f819acef8a0
+buggy locations:
+file: llvm/lib/Transforms/Utils/Local.cpp;

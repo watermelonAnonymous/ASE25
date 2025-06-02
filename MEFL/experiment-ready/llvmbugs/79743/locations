@@ -1,0 +1,5 @@
+test trunk:408dce82016463dcb5026b2ddfc62174970a88e9
+fail opti level:-O2
+fixed trunk:8d89dd4a5872503d6d5b070bdb48d20973156e07
+buggy locations:
+file: llvm/lib/Transforms/Vectorize/SLPVectorizer.cpp;

@@ -1,0 +1,5 @@
+test trunk:461274b81d8641eab64d494accddc81d7db8a09e
+fail opti level:-O3
+fixed trunk:929cbe7f596733f85cd274485acc19442dd34a80
+buggy locations:
+file:llvm/lib/Transforms/InstCombine/InstCombinePHI.cpp;

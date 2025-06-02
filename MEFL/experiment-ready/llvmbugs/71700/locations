@@ -1,0 +1,5 @@
+test trunk:6eb97f03802a219997af4b615a2afae339cb674d
+fail opti level:-O1
+fixed trunk:1b1c81772fe50a1cb2b2adf8d8cf442c0b73602f
+buggy locations:
+file:llvm/lib/Transforms/InstCombine/InstructionCombining.cpp;

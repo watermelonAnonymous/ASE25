@@ -1,0 +1,5 @@
+test trunk:07a566793b2f94d0de6b95b7e6d1146b0d7ffe49
+fail opti level:-O1
+fixed trunk:42c7cb69694d274e46bb98d156b9be31b308b62c
+buggy locations:
+file: llvm/lib/Transforms/Utils/CloneFunction.cpp;
